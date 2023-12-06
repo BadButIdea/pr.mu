@@ -1,0 +1,11 @@
+ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+li {
+    margin-right: 5%;
+}
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
